@@ -1,0 +1,1 @@
+A for loops range if fixed will cover from the beginning range up to but not including the end range It will do the number of iterations that the end range defines but the index will be -1 the iteration. 
