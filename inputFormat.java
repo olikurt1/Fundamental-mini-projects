@@ -6,5 +6,7 @@ public class inputFormat{
         System.out.print("Enter a number: ");
         int num = input.nextInt();
         System.out.printf("Your number is %d. ", num);
+        //flushes the buffer 
+        input.close();
     }
 }
