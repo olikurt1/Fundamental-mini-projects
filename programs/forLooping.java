@@ -9,5 +9,6 @@ public class forLooping{
             total += userNumber;
         }
         System.out.println(total);
+        input.close();
     }
 }

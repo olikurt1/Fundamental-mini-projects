@@ -12,5 +12,6 @@ public class whileLoop{
             
         }
         System.out.println(total);
+        input.close();
     }
 }

@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 public class arrays{
     public static void main(String[] args){
         String [] names = {"John", "Sam", "Pork"};

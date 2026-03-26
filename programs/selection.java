@@ -15,5 +15,6 @@ public class selection{
         else if(userNumber  <=1000 && userNumber >= 1 ){
             System.out.printf("%d is in the correct range.", userNumber);
         }
+        input.close();
     }
 }
