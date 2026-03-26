@@ -8,5 +8,8 @@ public class arrays{
         for(String name: names){
             System.out.println(name);
         }
+        for(int x = 0; x < names.length; x++){
+            System.out.println(names[x]);        
+        }
     }
 }

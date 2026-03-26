@@ -1,3 +1,5 @@
 A for loops range if fixed will cover from the beginning range up to but not including the end range It will do the number of iterations that the end range defines but the index will be -1 the iteration. 
 
 There is also for each syntax which takes in two variables, one representing iterations, one representing what is being iterated over. This avoids low iterations and instead ensures exact iterations. 
+
+Showing that for each is an easier version of using a regular for loop with range of length.
