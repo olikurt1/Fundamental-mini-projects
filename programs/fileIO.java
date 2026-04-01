@@ -6,6 +6,7 @@ public class fileIO{
         //file writing 
         BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
         writer.write("Writing to the file");
+        writer.write("\nHere is another line.");
         writer.close();
     }
 }
