@@ -1,5 +1,0 @@
-Writing to the file
-Here is another line.
-Ollie
-John
-Mike
