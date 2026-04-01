@@ -4,3 +4,5 @@ Eg: in the IO program, im using buffered writer class/library, to access the obj
 The same way when taking input, the scanner is stored within a userdefined variable of the scanner class type.
 
 If the program for creating a file and writing into it occurs more than once, the file will be overwritten. 
+
+reader.readLine() on its own will only read the first line of the file. Therefore a while loop is implemented to read until nothing left to read. 
